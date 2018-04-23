@@ -21,6 +21,6 @@ while True:
 		print(data)
 		if not data:
 			break
-		m_client.send( ('[%s] %s' % (ctime() , data)).encode())
+		m_client.send( ('[%s] %s' % ( ctime() , data ) ).encode() ) 
 	m_client.close()
 m_server.close()
