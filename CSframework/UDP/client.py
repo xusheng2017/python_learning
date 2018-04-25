@@ -4,17 +4,17 @@ from socket import *
 from time import ctime
 
 HOST = '127.0.0.1'
-PORT = '10086'
-BUFSIZE = '1024'
+PORT = 10086
+BUFSIZE = 1024
 ADDR = (HOST , PORT)
 
 udp_client = socket(AF_INET , SOCK_DGRAM)
 
 while True:
-	data = raw_input('>>> ')
+	data = input('>>> ')
 	if not data:
 		break
-	udp_client.sendto(data , ADDR)
+	udp_client.sendto(data.encode('utf-8') , ADDR)
 	data , addr = udp_client.recvfrom(BUFSIZE)
 	if not data:
 		break
