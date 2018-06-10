@@ -12,8 +12,9 @@ ADDR = (HOST , PORT)
 class MyRequestHandle(SRH):
 	def handle(self):
 		print('...connect from:' , self.client_address)
-		print(self.rfile.readline().decode())
+		#print(self.rfile.readline().decode())
 		#  self.wfile.write(self.rfile.readline())
+		#print(ctime())
 		self.wfile.write( ('[%s] %s' % (ctime() , self.rfile.readline()) ).decode())
 
 
