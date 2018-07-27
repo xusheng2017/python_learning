@@ -1,0 +1,14 @@
+#!/bin/bash
+
+pwd = "/home/python01/python/IOproj"
+
+for line in `cat readme.txt`
+do
+	myfile="/home/python01/python/IOproj/${line}"
+	echo $myfile
+	if [ ! -f "$myfile" ]; then
+		echo "myfile"
+	fi
+	
+done
+

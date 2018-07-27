@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+
+<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<META content="," name=description>
+<META content="" name=keywords>
+<link rel="icon" href="http://www.supfree.net/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="http://www.supfree.net/images/styles.css" type="text/css" media="screen">
+<script language="javascript" src="http://www.supfree.net/images/top.js"></script>
+</head>
+
+<body>
+<div id="page">
+
+<div id="header">
+	<div id="logo">
+		<img border="0" src="http://www.supfree.net/images/logo.gif"></div>
+	<div id="header_banner">
+		<script language="javascript" src="http://www.supfree.net/images/otop.js"></script></div>
+</div>
+
+<div id="menu">
+	<div id="mainmenu">
+		<ul>
+			<li><a href="http://www.supfree.net/" title="首页">首页</a></li>
+			<li><a title="本查询" href="/">本查询</a></li>
+			<li><a href="javascript:" onClick="jscript:window.external.AddFavorite(document.location.href,document.title);"  title="收藏本页">收藏本页</a></li>
+			<li style="CURSOR: hand" onClick="window.external.addFavorite('http://www.supfree.net/','在线查询网')" title="在线查询网"><a href="#">收藏本站</a></li>
+			<li><a href="http://www.supfree.net/contact.asp" title="联系本站">联系本站</a></li>
+			<li><a href="http://www.supfree.net/map.asp" title="网站地图">网站地图</a></li>
+			<li><a href="about.asp">关于本站</a></li>
+		</ul>
+	</div>
+    <div id="main_search">
+        <form method="post" id="searchform_top" action="http://baike.supfree.net/search.asp" target="_blank">
+            <div>
+                <input type="text" value="百科搜索" name="title" id="searchform_top_text" onclick="this.value='';">
+                <input type="image" src="http://www.supfree.net/images/button_go.gif" id="gosearch">
+            </div>
+        </form>
+    </div>
+</div>
+
+<br>
+
+<div id="body">
+<div id="body_top">
+<div id="body_end">
+	<div id="body_left">
+    	<div id="body_left_content">
+			<div id="content" class="narrowcolumn">
+				<div class="post" id="post-9">
+					<div class="post-top">
+						<div class="post-title">
+							<h2><a href="/">
+							<img border="0" src="http://www.supfree.net/images/ico.asp?id="></a></h2>
+						</div>
+					</div>
+					<div class="entry">
+						<div class="csense" id="c001">
+		      				<script language="javascript" type="text/javascript" src="http://www.supfree.net/images/gooooo.js"> </script>
+							<br>
+						</div>
+											
+					</div>
+					<div class="random">
+						<script language="javascript" type="text/javascript" src="http://www.supfree.net/images/random.js"> </script>
+					</div>
+					<div id="respond">
+						<h3 id="respond_title">您的留言</h3>
+						<form action="http://www.supfree.net/feedback.asp?id=" method="post" id="commentform">
+							<p>
+							<select tabindex="0" class="med" style="cursor:pointer;" name="feedclass">
+							<option>建议</option>
+							<option>批评</option>
+							<option>表扬</option>
+							<option>信息</option>
+							<option>合作</option></select><input type="text" name="feedtitle" id="url" value="" size="22" tabindex="3">
+							</p>
+							<p>
+							<textarea name="feedback" id="comment" cols="100%" rows="10" tabindex="4"></textarea></p>
+							<input name="submit" type="image" src="http://www.supfree.net/images/button_submit.gif" id="submit" tabindex="5" value="Submit Comment">
+						</form>
+					</div>
+<ul class='oright'>
+<li><a target='_blank' href='https://cal.supfree.net/'><img src='https://img.supfree.net/ico/cal.png'><div>计算器</div></a></li>
+<li><a target='_blank' href='https://dns.supfree.net/'><img src='https://img.supfree.net/ico/dns.png'><div>DNS服务器</div></a></li>
+<li><a target='_blank' href='https://xinyongka.supfree.net/'><img src='https://img.supfree.net/ico/xinyongka.png'><div>信用卡进度</div></a></li>
+<li><a target='_blank' href='https://jingdian.supfree.net/'><img src='https://img.supfree.net/ico/jingdian.png'><div>旅游景点</div></a></li>
+<li><a target='_blank' href='https://zhuanhuan.supfree.net/'><img src='https://img.supfree.net/ico/zhuanhuan.png'><div>格式转换</div></a></li>
+<li><a target='_blank' href='https://chima.supfree.net/'><img src='https://img.supfree.net/ico/chima.png'><div>衣服尺码</div></a></li><li><a target='_blank' href='https://qinshu.supfree.net/'><img src='https://img.supfree.net/ico/qinshu.png'><div>亲属关系</div></a></li><li><a target='_blank' href='https://bankcard.supfree.net/'><img src='https://img.supfree.net/ico/bankcard.png'><div>银行卡归属</div></a></li><li><a target='_blank' href='https://book.supfree.net/'><img src='https://img.supfree.net/ico/book.png'><div>图书大全</div></a></li><li><a target='_blank' href='https://music.supfree.net/'><img src='https://img.supfree.net/ico/music.png'><div>音乐专辑</div></a></li><li><a target='_blank' href='https://movie.supfree.net/'><img src='https://img.supfree.net/ico/movie.png'><div>电影大全</div></a></li><li><a target='_blank' href='https://guji.supfree.net/'><img src='https://img.supfree.net/ico/guji.png'><div>古籍大全</div></a></li><li><a target='_blank' href='https://bank.supfree.net/'><img src='https://img.supfree.net/ico/bank.png'><div>银行网点</div></a></li><li><a target='_blank' href='https://xiehou.supfree.net/'><img src="https://img.supfree.net/ico/xiehou.png"><div>歇后语</div></a></li>
+<li><a target='_blank' href='https://gold.supfree.net/'><img src="https://img.supfree.net/ico/gold.png"><div>黄金走势</div></a></li>
+<li><a target='_blank' href='https://jingdian.supfree.net/'><img src="https://img.supfree.net/ico/jingdian.png"><div>旅游景点</div></a></li>
+<li><a target='_blank' href='https://enlink.supfree.net/'><img src="https://img.supfree.net/ico/enlink.png"><div>下载链解码</div></a></li>
+<li><a target='_blank' href='https://tv.supfree.net/'><img src="https://img.supfree.net/ico/tv.png"><div>节目预告</div></a></li>
+<li><a target='_blank' href='https://shengjing.supfree.net/'><img src="https://img.supfree.net/ico/shengjing.png"><div>圣经</div></a></li>
+<li><a target='_blank' href='https://name.supfree.net/'><img src="https://img.supfree.net/ico/name.png"><div>英文名</div></a></li>
+<li><a target='_blank' href='https://youjia.supfree.net/'><img src="https://img.supfree.net/ico/youjia.png"><div>今日油价</div></a></li>
+<li><a target='_blank' href='https://yanfang.supfree.net/'><img src="https://img.supfree.net/ico/yanfang.png"><div>验方查询</div></a></li>
+<li><a target='_blank' href='https://airport.supfree.net/'><img src="https://img.supfree.net/ico/airport.png"><div>机场三字码</div></a></li>
+<li><a target='_blank' href='https://jinyi.supfree.net/'><img src="https://img.supfree.net/ico/jinyi.png"><div>近义词词典</div></a></li>
+</ul>
+
+				</div>
+			</div>         
+		</div>
+	</div>
+
+	<div id="body_right">
+		<script language="javascript" type="text/javascript" src="http://www.supfree.net/images/ali.js"> </script>
+	</div>
+
+</div>
+</div>
+</div>
+
+<div id="footer">
+	<div id="footer_text">
+    	<p>&copy; All Rights Reserved. SupFree</p>
+		<p class="designed"><a href="http://www.supfree.net/">在线查询网</a>
+		<a href="http://www.supfree.com/">免费资源网</a></p>
+    </div>
+</div>
+
+</div>
+
+</body>
+</html>
+<p>
+<script language="javascript" src="http://www.supfree.net/hit.asp?id="> </script>
+</p>
+<div style="visibility:hidden;">
+<script language="javascript" type="text/javascript" src="http://www.supfree.net/images/bottom.js"></script></div>
